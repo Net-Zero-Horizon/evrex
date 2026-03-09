@@ -1,4 +1,4 @@
-# EVreX - EV Resource eXchange
+# EVREX - EV Resource eXchange
 
 [![Tests](https://github.com/msotocalvo/evrex/actions/workflows/tests.yml/badge.svg)](https://github.com/msotocalvo/evrex/actions/workflows/tests.yml)
 [![DOI](https://zenodo.org/badge/1176473313.svg)](https://doi.org/10.5281/zenodo.18918073)
