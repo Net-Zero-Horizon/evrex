@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "evrex"
-version = "0.1.0"
+version = "0.1.1"
 description = "EVreX - EV Resource eXchange: electric vehicle fleet adoption modeling, V2G potential, and grid impact assessment"
 readme = "README.md"
 license = {text = "MIT"}
@@ -61,8 +61,8 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/evrex-dev/evrex"
-Repository = "https://github.com/evrex-dev/evrex"
+Homepage = "https://github.com/Net-Zero-Horizon/evrex"
+Repository = "https://github.com/Net-Zero-Horizon/evrex"
 
 [tool.setuptools.packages.find]
 where = ["src"]
